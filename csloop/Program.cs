@@ -12,7 +12,7 @@ namespace csloop
         {
             long start = DateTime.Now.Ticks;
             long count = 0;
-            while (start + (10000000) > DateTime.Now.Ticks)){
+            while (start + (10000000) > DateTime.Now.Ticks){
                 count++;
             }
             Console.Write(count + "만큼 반복함");
