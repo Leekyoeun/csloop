@@ -27,7 +27,7 @@ namespace csloop
             }
 
     }*/
-            int x = 1;
+            /*int x = 1;
             while (x < 50)
             {
                 Console.Clear();
@@ -39,7 +39,8 @@ namespace csloop
                 else
                     Console.WriteLine("^_@");
                 Thread.Sleep(100);
-                x++;
+                x++;*/
+
             }
         }
     }
